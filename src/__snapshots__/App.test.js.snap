@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="SoftwareDevelopment.png"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              <h1>
+                Marisol D Rodriguez
+              </h1>
+            </div>
+            <p
+              className="card-text"
+            >
+              <h2>
+                <a
+                  href="https://github.com/marisoldrodriguez"
+                >
+                  My GitHub Profile
+                </a>
+              </h2>
+            </p>
+          </div>
+        </div>
+        <br />
+        <div
+          className="card"
+        >
+          <div
+            className="card-body"
+          >
+            <p
+              className="card-text"
+            >
+              Experienced product development engineer, fortunate to take a career break to raise my family. Excited to get back in the workforce as a software engineer. Currently enrolled in a Software Development Bootcamp at North Carolina State University. Program completion in October 2022.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
